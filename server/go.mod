@@ -18,7 +18,7 @@ require (
 renovate/go.opentelemetry.io-proto-otlp-0.x
 	go.opentelemetry.io/proto/otlp v0.11.0
 	go.opentelemetry.io/otel/trace v1.1.0
-        go.opentelemetry.io/otel v1.1.0
+        go.opentelemetry.io/otel v1.2.0
 	github.com/go-sql-driver/mysql v1.6.0
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
 	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4 // indirect
