@@ -33,7 +33,7 @@ require (
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac
 	google.golang.org/api v0.60.0
-	google.golang.org/grpc v1.41.0
+	google.golang.org/grpc v1.42.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.33.0
 	k8s.io/api v0.22.3
 	k8s.io/apimachinery v0.22.3
