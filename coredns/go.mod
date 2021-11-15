@@ -30,7 +30,7 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.1
 	go.etcd.io/etcd/client/v3 v3.5.1
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac
 	google.golang.org/api v0.60.0
 	google.golang.org/grpc v1.41.0
