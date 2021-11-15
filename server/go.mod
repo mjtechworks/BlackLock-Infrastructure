@@ -25,7 +25,7 @@ renovate/go.opentelemetry.io-proto-otlp-0.x
 =======
 	go.opentelemetry.io/proto/otlp v0.7.0
 main
-	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
+	google.golang.org/genproto 271947fe86fd
 	go.etcd.io/etcd/api/v3 v3.5.1
 	go.etcd.io/etcd/client/v3 v3.5.1
 	google.golang.org/grpc v1.41.0
