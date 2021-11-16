@@ -8,7 +8,7 @@ require (
 	github.com/cncf/xds/go cb28da3451f1
 	github.com/osrg/gobgp v2.32.0+incompatible
 	github.com/envoyproxy/envoy v1.0.0
-	github.com/envoyproxy/go-control-plane v0.9.9
+	github.com/envoyproxy/go-control-plane v0.10.1
 	github.com/envoyproxy/protoc-gen-validate v0.6.2
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
