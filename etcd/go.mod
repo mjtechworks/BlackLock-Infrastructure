@@ -18,7 +18,7 @@ replace (
 require (
 	github.com/bgentry/speakeasy v0.1.0
 	github.com/dustin/go-humanize v1.0.0
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.2.1
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/api/v3 v3.5.1
 	go.etcd.io/etcd/client/pkg/v3 v3.5.1
@@ -31,8 +31,8 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.1
 	go.etcd.io/etcd/tests/v3 v3.5.1
 	go.uber.org/zap v1.19.1
-	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
-	google.golang.org/grpc v1.41.0
+	golang.org/x/time 1f47c861a9ac
+	google.golang.org/grpc v1.42.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.29
 )
 
