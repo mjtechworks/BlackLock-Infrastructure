@@ -6,7 +6,7 @@ require (
 	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/caddyserver/caddy/v2 v2.4.5
 	github.com/cncf/xds/go cb28da3451f1
-	github.com/osrg/gobgp v2.32.0+incompatible
+	github.com/osrg/gobgp v2.33.0+incompatible
 	github.com/envoyproxy/envoy v1.0.0
 	github.com/envoyproxy/go-control-plane v0.10.1
 	github.com/envoyproxy/protoc-gen-validate v0.6.2
