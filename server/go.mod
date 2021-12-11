@@ -9,13 +9,13 @@ require (
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/osrg/gobgp v2.32.0+incompatible
 renovate/github.com-envoyproxy-envoy-1.x
-	github.com/envoyproxy/envoy v1.20.0
+	github.com/envoyproxy/envoy v1.20.1
 	github.com/envoyproxy/go-control-plane v0.9.9
 =======
 =======
 	github.com/osrg/gobgp v2.33.0+incompatible
 main
-	github.com/envoyproxy/envoy v1.0.0
+	github.com/envoyproxy/envoy v1.20.1
 	github.com/envoyproxy/go-control-plane v0.10.1
 main
 	github.com/envoyproxy/protoc-gen-validate v0.6.2
@@ -44,8 +44,13 @@ main
 	go.etcd.io/etcd/api/v3 v3.5.1
 	go.etcd.io/etcd/client/v3 v3.5.1
 	google.golang.org/grpc v1.42.0
+renovate/google.golang.org-api-0.x
 	google.golang.org/api v0.62.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0
+=======
+	google.golang.org/api v0.60.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.1
+main
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
 	google.golang.org/protobuf v1.27.1
 	k8s.io/api v0.22.4
