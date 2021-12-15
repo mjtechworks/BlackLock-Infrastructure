@@ -37,7 +37,7 @@ main
 	go.etcd.io/etcd/client/v3 v3.5.1
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys 0c823b97ae02
-	google.golang.org/api v0.62.0
+	google.golang.org/api v0.63.0
 	google.golang.org/grpc v1.42.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.34.0
 	k8s.io/api v0.23.0
