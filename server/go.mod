@@ -46,10 +46,10 @@ main
 	google.golang.org/grpc v1.42.0
 renovate/google.golang.org-api-0.x
 	google.golang.org/api v0.62.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 =======
 	google.golang.org/api v0.60.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.1
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 main
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
 	google.golang.org/protobuf v1.27.1
