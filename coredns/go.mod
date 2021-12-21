@@ -5,16 +5,24 @@ go 1.16
 require (
 	github.com/Azure/azure-sdk-for-go v53.4.0+incompatible
 renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
+renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
 	github.com/Azure/go-autorest/autorest v0.11.21
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
 =======
 	github.com/Azure/go-autorest/autorest v0.11.22
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
+=======
+	github.com/Azure/go-autorest/autorest v0.11.23
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
+=======
+	github.com/Azure/go-autorest/autorest v0.11.23
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.8
+main
 main
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/aws-sdk-go v1.42.22
+	github.com/aws/aws-sdk-go v1.42.24
 	github.com/coredns/caddy/v2 v2.1.1
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
@@ -37,7 +45,7 @@ main
 	go.etcd.io/etcd/client/v3 v3.5.1
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys 0c823b97ae02
-	google.golang.org/api v0.60.0
+	google.golang.org/api v0.62.0
 	google.golang.org/grpc v1.42.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.34.0
 	k8s.io/api v0.23.0
