@@ -46,16 +46,16 @@ main
 	google.golang.org/grpc v1.43.0
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-api-0.x
-	google.golang.org/api v0.63.0
+	google.golang.org/api v0.65.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0
 =======
-	google.golang.org/api v0.63.0
+	google.golang.org/api v0.65.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.1
 =======
-	google.golang.org/api v0.62.0
+	google.golang.org/api v0.65.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 =======
-	google.golang.org/api v0.60.0
+	google.golang.org/api v0.65.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 main
 main
