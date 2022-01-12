@@ -6,16 +6,16 @@ require (
 	github.com/Azure/azure-sdk-for-go v53.4.0+incompatible
 renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
 renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
-	github.com/Azure/go-autorest/autorest v0.11.21
+	github.com/Azure/go-autorest/autorest v0.11.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
 =======
-	github.com/Azure/go-autorest/autorest v0.11.22
+	github.com/Azure/go-autorest/autorest v0.11.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
 =======
-	github.com/Azure/go-autorest/autorest v0.11.23
+	github.com/Azure/go-autorest/autorest v0.11.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
 =======
-	github.com/Azure/go-autorest/autorest v0.11.23
+	github.com/Azure/go-autorest/autorest v0.11.24
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.8
 main
 main
