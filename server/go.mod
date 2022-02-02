@@ -18,7 +18,7 @@ main
 	github.com/envoyproxy/envoy v1.21.0
 	github.com/envoyproxy/go-control-plane v0.10.1
 main
-	github.com/envoyproxy/protoc-gen-validate v0.6.2
+	github.com/envoyproxy/protoc-gen-validate v0.6.3
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.7
 	github.com/prometheus/client_model v0.2.0
