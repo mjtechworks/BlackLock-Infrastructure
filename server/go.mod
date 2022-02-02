@@ -10,7 +10,7 @@ renovate/github.com-envoyproxy-envoy-1.x
 	github.com/osrg/gobgp v2.34.0+incompatible
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/envoyproxy/envoy v1.21.0
-	github.com/envoyproxy/go-control-plane v0.9.9
+	github.com/envoyproxy/go-control-plane v0.10.1
 =======
 =======
 	github.com/osrg/gobgp v2.34.0+incompatible
