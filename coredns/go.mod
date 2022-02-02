@@ -7,16 +7,16 @@ require (
 renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
 renovate/github.com-azure-go-autorest-autorest-azure-auth-0.x
 	github.com/Azure/go-autorest/autorest v0.11.24
-	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 =======
 	github.com/Azure/go-autorest/autorest v0.11.24
-	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 =======
 	github.com/Azure/go-autorest/autorest v0.11.24
-	github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 =======
 	github.com/Azure/go-autorest/autorest v0.11.24
-	github.com/Azure/go-autorest/autorest/azure/auth v0.5.8
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 main
 main
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
