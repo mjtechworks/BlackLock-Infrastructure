@@ -46,10 +46,10 @@ main
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys 0c823b97ae02
 renovate/google.golang.org-api-0.x
-	google.golang.org/api v0.65.0
+	google.golang.org/api v0.68.0
 	google.golang.org/grpc v1.44.0
 =======
-	google.golang.org/api v0.65.0
+	google.golang.org/api v0.68.0
 	google.golang.org/grpc v1.44.0
 main
 	gopkg.in/DataDog/dd-trace-go.v1 v1.35.0
