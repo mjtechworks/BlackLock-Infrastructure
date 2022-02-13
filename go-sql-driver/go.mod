@@ -13,10 +13,10 @@ renovate/github.com-osrg-gobgp-2.x
         github.com/osrg/gobgp v2.34.0+incompatible
 =======
         github.com/envoyproxy/envoy v1.21.0
-        github.com/osrg/gobgp v2.32.0+incompatible
+        github.com/osrg/gobgp v2.34.0+incompatible
 =======
         github.com/envoyproxy/envoy v1.21.0
-        github.com/osrg/gobgp v2.33.0+incompatible
+        github.com/osrg/gobgp v2.34.0+incompatible
 main
 main
 )
