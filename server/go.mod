@@ -7,13 +7,13 @@ require (
 	github.com/caddyserver/caddy/v2 v2.4.6
 	github.com/cncf/xds/go cb28da3451f1
 renovate/github.com-envoyproxy-envoy-1.x
-	github.com/osrg/gobgp v2.34.0+incompatible
+	github.com/osrg/gobgp/v3 v3.0.0
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/envoyproxy/envoy v1.21.1
 	github.com/envoyproxy/go-control-plane v0.10.1
 =======
 =======
-	github.com/osrg/gobgp v2.34.0+incompatible
+	github.com/osrg/gobgp/v3 v3.0.0
 main
 	github.com/envoyproxy/envoy v1.21.1
 	github.com/envoyproxy/go-control-plane v0.10.1
