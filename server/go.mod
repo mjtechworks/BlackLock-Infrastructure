@@ -22,7 +22,7 @@ main
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.7
 	github.com/prometheus/client_model v0.2.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.mongodb.org/mongo-driver v1.8.4
 renovate/go.opentelemetry.io-proto-otlp-0.x
 renovate/go.opentelemetry.io-otel-trace-1.x
