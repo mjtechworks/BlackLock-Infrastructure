@@ -22,7 +22,7 @@ main
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/aws-sdk-go v1.43.14
+	github.com/aws/aws-sdk-go v1.43.19
 	github.com/coredns/caddy/v2 v2.1.1
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
@@ -46,13 +46,21 @@ main
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/sys 0c823b97ae02
 renovate/google.golang.org-api-0.x
+renovate/google.golang.org-grpc-1.x
 	google.golang.org/api v0.70.0
 	google.golang.org/grpc v1.45.0
 =======
 	google.golang.org/api v0.70.0
 	google.golang.org/grpc v1.45.0
+=======
+	google.golang.org/api v0.73.0
+	google.golang.org/grpc v1.44.0
+=======
+	google.golang.org/api v0.73.0
+	google.golang.org/grpc v1.44.0
 main
-	gopkg.in/DataDog/dd-trace-go.v1 v1.36.0
+main
+	gopkg.in/DataDog/dd-trace-go.v1 v1.36.2
 	k8s.io/api v0.23.4
 	k8s.io/apimachinery v0.23.4
 	k8s.io/client-go v1.5.2
