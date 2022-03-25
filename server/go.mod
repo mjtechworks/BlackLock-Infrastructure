@@ -64,5 +64,5 @@ main
 	k8s.io/api v0.23.5
 	k8s.io/apimachinery v0.23.5
 	k8s.io/client-go/v12 v12.0.0
-	k8s.io/klog/v2 v2.60.0
+	k8s.io/klog/v2 v2.60.1
 )
