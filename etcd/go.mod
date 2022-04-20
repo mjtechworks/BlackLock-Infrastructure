@@ -26,7 +26,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.3
 	go.etcd.io/etcd/etcdctl/v3 v3.5.3
 	go.etcd.io/etcd/etcdutl/v3 v3.5.3
-	go.etcd.io/etcd/pkg/v3 v3.5.2
+	go.etcd.io/etcd/pkg/v3 v3.5.3
 	go.etcd.io/etcd/raft/v3 v3.5.3
 	go.etcd.io/etcd/server/v3 v3.5.2
 	go.etcd.io/etcd/tests/v3 v3.5.2
