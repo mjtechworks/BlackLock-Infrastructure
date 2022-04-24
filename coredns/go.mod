@@ -61,8 +61,8 @@ renovate/google.golang.org-grpc-1.x
 main
 main
 	gopkg.in/DataDog/dd-trace-go.v1 v1.37.1
-	k8s.io/api v0.23.5
-	k8s.io/apimachinery v0.23.5
+	k8s.io/api v0.23.6
+	k8s.io/apimachinery v0.23.6
 	k8s.io/client-go v1.5.2
 	k8s.io/klog/v2 v2.60.1
 )
