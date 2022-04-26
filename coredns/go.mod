@@ -48,16 +48,16 @@ main
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-grpc-1.x
 	google.golang.org/api v0.75.0
-	google.golang.org/grpc v1.45.0
+	google.golang.org/grpc v1.46.0
 =======
 	google.golang.org/api v0.75.0
-	google.golang.org/grpc v1.45.0
+	google.golang.org/grpc v1.46.0
 =======
 	google.golang.org/api v0.75.0
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.46.0
 =======
 	google.golang.org/api v0.75.0
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.46.0
 main
 main
 	gopkg.in/DataDog/dd-trace-go.v1 v1.38.0
