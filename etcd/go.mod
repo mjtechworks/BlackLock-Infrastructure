@@ -23,7 +23,7 @@ require (
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/pkg/v3 v3.5.4
 	go.etcd.io/etcd/client/v2 v2.305.4
-	go.etcd.io/etcd/client/v3 v3.5.3
+	go.etcd.io/etcd/client/v3 v3.5.4
 	go.etcd.io/etcd/etcdctl/v3 v3.5.4
 	go.etcd.io/etcd/etcdutl/v3 v3.5.3
 	go.etcd.io/etcd/pkg/v3 v3.5.4
