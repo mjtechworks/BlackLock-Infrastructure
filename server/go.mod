@@ -23,7 +23,7 @@ main
 	github.com/google/go-cmp v0.5.8
 	github.com/prometheus/client_model v0.2.0
 	github.com/stretchr/testify v1.7.1
-	go.mongodb.org/mongo-driver v1.9.0
+	go.mongodb.org/mongo-driver v1.9.1
 renovate/go.opentelemetry.io-proto-otlp-0.x
 renovate/go.opentelemetry.io-otel-trace-1.x
 	go.opentelemetry.io/proto/otlp v0.16.0
