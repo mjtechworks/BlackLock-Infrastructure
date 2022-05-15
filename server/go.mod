@@ -4,16 +4,16 @@ go 1.11
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.3.0
-	github.com/caddyserver/caddy/v2 v2.4.6
+	github.com/caddyserver/caddy/v2 v2.5.1
 	github.com/cncf/xds/go cb28da3451f1
 renovate/github.com-envoyproxy-envoy-1.x
-	github.com/osrg/gobgp/v3 v3.1.0
+	github.com/osrg/gobgp/v3 v3.2.0
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/envoyproxy/envoy v1.22.0
 	github.com/envoyproxy/go-control-plane v0.10.1
 =======
 =======
-	github.com/osrg/gobgp/v3 v3.1.0
+	github.com/osrg/gobgp/v3 v3.2.0
 main
 	github.com/envoyproxy/envoy v1.22.0
 	github.com/envoyproxy/go-control-plane v0.10.1
@@ -23,16 +23,16 @@ main
 	github.com/google/go-cmp v0.5.8
 	github.com/prometheus/client_model v0.2.0
 	github.com/stretchr/testify v1.7.1
-	go.mongodb.org/mongo-driver v1.9.0
+	go.mongodb.org/mongo-driver v1.9.1
 renovate/go.opentelemetry.io-proto-otlp-0.x
 renovate/go.opentelemetry.io-otel-trace-1.x
 	go.opentelemetry.io/proto/otlp v0.16.0
-	go.opentelemetry.io/otel/trace v1.6.3
-        go.opentelemetry.io/otel v1.6.3
+	go.opentelemetry.io/otel/trace v1.7.0
+        go.opentelemetry.io/otel v1.7.0
 =======
 	go.opentelemetry.io/proto/otlp v0.16.0
-	go.opentelemetry.io/otel/trace v1.6.3
-        go.opentelemetry.io/otel v1.6.3
+	go.opentelemetry.io/otel/trace v1.7.0
+        go.opentelemetry.io/otel v1.7.0
 main
 	github.com/go-sql-driver/mysql v1.6.0
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
@@ -46,16 +46,16 @@ main
 	google.golang.org/grpc v1.46.0
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-api-0.x
-	google.golang.org/api v0.75.0
+	google.golang.org/api v0.79.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.0
 =======
-	google.golang.org/api v0.75.0
+	google.golang.org/api v0.79.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.0
 =======
-	google.golang.org/api v0.75.0
+	google.golang.org/api v0.79.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.0
 =======
-	google.golang.org/api v0.75.0
+	google.golang.org/api v0.79.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.0
 main
 main
