@@ -43,7 +43,7 @@ main
 	google.golang.org/genproto 271947fe86fd
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/v3 v3.5.4
-	google.golang.org/grpc v1.46.0
+	google.golang.org/grpc v1.46.2
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-api-0.x
 	google.golang.org/api v0.79.0
