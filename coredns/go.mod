@@ -70,6 +70,6 @@ renovate/kubernetes-go
 	k8s.io/apimachinery v0.23.6
 main
 	k8s.io/client-go v1.5.2
-	k8s.io/klog/v2 v2.70.0
+	k8s.io/klog/v2 v2.70.1
 )
 
