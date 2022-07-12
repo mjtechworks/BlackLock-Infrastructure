@@ -27,12 +27,12 @@ main
 renovate/go.opentelemetry.io-proto-otlp-0.x
 renovate/go.opentelemetry.io-otel-trace-1.x
 	go.opentelemetry.io/proto/otlp v0.18.0
-	go.opentelemetry.io/otel/trace v1.7.0
-        go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel/trace v1.8.0
+        go.opentelemetry.io/otel v1.8.0
 =======
 	go.opentelemetry.io/proto/otlp v0.18.0
-	go.opentelemetry.io/otel/trace v1.7.0
-        go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel/trace v1.8.0
+        go.opentelemetry.io/otel v1.8.0
 main
 	github.com/go-sql-driver/mysql v1.6.0
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
