@@ -61,11 +61,11 @@ renovate/google.golang.org-grpc-1.x
 main
 main
 renovate/kubernetes-go
-	gopkg.in/DataDog/dd-trace-go.v1 v1.39.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
 	k8s.io/api v0.24.0
 	k8s.io/apimachinery v0.24.0
 =======
-	gopkg.in/DataDog/dd-trace-go.v1 v1.39.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
 	k8s.io/api v0.23.6
 	k8s.io/apimachinery v0.23.6
 main
