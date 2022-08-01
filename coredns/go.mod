@@ -62,12 +62,12 @@ main
 main
 renovate/kubernetes-go
 	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
-	k8s.io/api v0.24.0
-	k8s.io/apimachinery v0.24.0
+	k8s.io/api v0.24.3
+	k8s.io/apimachinery v0.24.3
 =======
 	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.3
+	k8s.io/apimachinery v0.24.3
 main
 	k8s.io/client-go v1.5.2
 	k8s.io/klog/v2 v2.70.1
