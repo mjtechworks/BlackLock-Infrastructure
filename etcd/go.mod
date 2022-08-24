@@ -30,7 +30,7 @@ require (
 	go.etcd.io/etcd/raft/v3 v3.5.4
 	go.etcd.io/etcd/server/v3 v3.5.4
 	go.etcd.io/etcd/tests/v3 v3.5.4
-	go.uber.org/zap v1.22.0
+	go.uber.org/zap v1.23.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.48.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.29
