@@ -22,7 +22,7 @@ main
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/aws-sdk-go v1.44.78
+	github.com/aws/aws-sdk-go v1.44.81
 	github.com/coredns/caddy/v2 v2.1.1
 	github.com/dnstap/golang-dnstap v0.4.0
 	github.com/farsightsec/golang-framestream v0.3.0
@@ -47,20 +47,21 @@ main
 	golang.org/x/sys 0c823b97ae02
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-grpc-1.x
-	google.golang.org/api v0.92.0
+	google.golang.org/api v0.93.0
 	google.golang.org/grpc v1.48.0
 =======
-	google.golang.org/api v0.92.0
+	google.golang.org/api v0.93.0
 	google.golang.org/grpc v1.48.0
 =======
-	google.golang.org/api v0.92.0
+	google.golang.org/api v0.93.0
 	google.golang.org/grpc v1.48.0
 =======
-	google.golang.org/api v0.92.0
+	google.golang.org/api v0.93.0
 	google.golang.org/grpc v1.48.0
 main
 main
 renovate/kubernetes-go
+ renovate/gopkg.in-datadog-dd-trace-go.v1-1.x
 	gopkg.in/DataDog/dd-trace-go.v1 v1.41.0
 	k8s.io/api v0.24.3
 	k8s.io/apimachinery v0.24.3
@@ -68,6 +69,15 @@ renovate/kubernetes-go
 	gopkg.in/DataDog/dd-trace-go.v1 v1.41.0
 	k8s.io/api v0.24.3
 	k8s.io/apimachinery v0.24.3
+=======
+	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
+	k8s.io/api v0.25.0
+	k8s.io/apimachinery v0.25.0
+=======
+	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
+	k8s.io/api v0.25.0
+	k8s.io/apimachinery v0.25.0
+main
 main
 	k8s.io/client-go v1.5.2
 	k8s.io/klog/v2 v2.70.1
