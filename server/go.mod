@@ -46,8 +46,18 @@ main
 	google.golang.org/grpc v1.48.0
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-api-0.x
-	google.golang.org/api v0.94.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
+renovate/github.com-grpc-ecosystem-grpc-gateway-v2-2.x
+	google.golang.org/api v0.93.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
+=======
+	google.golang.org/api v0.93.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
+=======
+	google.golang.org/api v0.93.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
+=======
+	google.golang.org/api v0.93.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
 =======
 	google.golang.org/api v0.94.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
@@ -57,6 +67,10 @@ renovate/google.golang.org-api-0.x
 =======
 	google.golang.org/api v0.94.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
+=======
+	google.golang.org/api v0.94.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
+ main
 main
 main
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
