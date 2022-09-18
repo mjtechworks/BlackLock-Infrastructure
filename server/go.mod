@@ -41,7 +41,7 @@ main
 	go.opentelemetry.io/proto/otlp v0.19.0
 main
 	google.golang.org/genproto 271947fe86fd
-	go.etcd.io/etcd/api/v3 v3.5.4
+	go.etcd.io/etcd/api/v3 v3.5.5
 	go.etcd.io/etcd/client/v3 v3.5.4
 	google.golang.org/grpc v1.49.0
 renovate/google.golang.org-api-0.x
