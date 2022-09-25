@@ -3,7 +3,7 @@ module github.com/envoyproxy/go-control-plane
 go 1.19
 
 require (
-	github.com/census-instrumentation/opencensus-proto v0.3.0
+	github.com/census-instrumentation/opencensus-proto v0.4.1
 	github.com/caddyserver/caddy/v2 v2.5.2
 	github.com/cncf/xds/go cb28da3451f1
 renovate/github.com-envoyproxy-envoy-1.x
