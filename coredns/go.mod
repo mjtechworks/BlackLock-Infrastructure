@@ -48,16 +48,16 @@ main
 renovate/google.golang.org-api-0.x
 renovate/google.golang.org-grpc-1.x
 	google.golang.org/api v0.98.0
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.50.1
 =======
 	google.golang.org/api v0.98.0
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.50.1
 =======
 	google.golang.org/api v0.98.0
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.50.1
 =======
 	google.golang.org/api v0.98.0
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.50.1
 main
 main
 renovate/kubernetes-go
