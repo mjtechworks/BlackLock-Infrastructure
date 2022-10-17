@@ -476,7 +476,7 @@ EXTRAS_REQUIRES = {
 }
 
 SETUP_REQUIRES = INSTALL_REQUIRES + (
-    'Sphinx~=5.2.0.post0',
+    'Sphinx~=5.3.0',
     'six>=1.10',
 ) if ENABLE_DOCUMENTATION_BUILD else ()
 
