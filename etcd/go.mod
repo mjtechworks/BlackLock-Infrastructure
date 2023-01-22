@@ -29,7 +29,7 @@ require (
 	go.etcd.io/etcd/pkg/v3 v3.5.6
 	go.etcd.io/etcd/raft/v3 v3.5.7
 	go.etcd.io/etcd/server/v3 v3.5.6
-	go.etcd.io/etcd/tests/v3 v3.5.6
+	go.etcd.io/etcd/tests/v3 v3.5.7
 	go.uber.org/zap v1.24.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.52.0
