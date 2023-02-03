@@ -24,3 +24,39 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+
+
+build:
+     working_directory: ~/repo
+     docker:
+       - image: cimg/go:1.15.10
+     steps:
+       - checkout
+       - restore_cache:
+           keys:
+             - go-mod-v4-{{ checksum "go.sum" }}
+       - run:
+           name: Install Dependencies
+           command: go get ./...
+       - save_cache:
+           key: go-mod-v4-{{ checksum "go.sum" }}
+           paths:
+             - "/go/pkg/mod"
+       - run:
+           name: Run tests
+           command: go test -v
+
+build-medium:
+     machine:
+       image: ubuntu-2004:202101-01
+     resource_class: arm.medium
+steps:
+       - run: uname -a
+       - run: echo "Hello, Arm!"
+build-large:
+     machine:
+       image: ubuntu-2004:202101-01
+     resource_class: arm.large
+     steps:
+       - run: uname -a
+       - run: echo "Hello, Arm!"
