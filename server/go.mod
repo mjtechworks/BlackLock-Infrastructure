@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.4.1
-	github.com/caddyserver/caddy/v2 v2.6.2
+	github.com/caddyserver/caddy/v2 v2.6.4
 	github.com/cncf/xds/go cb28da3451f1
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/osrg/gobgp/v3 v3.11.0
