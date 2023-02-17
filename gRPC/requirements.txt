@@ -6,6 +6,6 @@ cython==0.29.33
 coverage==7.1.0
 cython==0.29.33
 main
-protobuf==4.21.12
+protobuf==4.22.0
 six==1.16.0
 wheel==0.38.4
