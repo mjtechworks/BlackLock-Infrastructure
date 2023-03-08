@@ -9,13 +9,13 @@ require (
 renovate/github.com-envoyproxy-envoy-1.x
 	github.com/osrg/gobgp/v3 v3.12.0
 renovate/github.com-envoyproxy-envoy-1.x
-	github.com/envoyproxy/envoy v1.25.1
+	github.com/envoyproxy/envoy v1.25.2
 	github.com/envoyproxy/go-control-plane v0.11.0
 =======
 =======
 	github.com/osrg/gobgp/v3 v3.12.0
 main
-	github.com/envoyproxy/envoy v1.25.1
+	github.com/envoyproxy/envoy v1.25.2
 	github.com/envoyproxy/go-control-plane v0.11.0
 main
 	github.com/envoyproxy/protoc-gen-validate v0.9.1
