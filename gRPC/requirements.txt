@@ -8,4 +8,4 @@ cython==0.29.33
 main
 protobuf==4.22.1
 six==1.16.0
-wheel==0.38.4
+wheel==0.40.0
